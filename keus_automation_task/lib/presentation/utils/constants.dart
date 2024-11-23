@@ -19,3 +19,11 @@ class AppColors {
   static const bannerShadeColorPrimary = Color(0xFFea4c89);
   static const bannerShadeColorSecondary = Color(0xFFf7d5d3);
 }
+
+// Font Families
+class PoppinsFonts {
+  static const String kPoppinsBold = 'PoppinsBold';
+  static const String kPoppinsLight = 'PoppinsLight';
+  static const String kPoppinsMedium = 'PoppinsMedium';
+  static const String kPoppinsRegular = 'PoppinsRegular';
+}
