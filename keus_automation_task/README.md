@@ -20,4 +20,4 @@ flutter pub get
 flutter run
 
 Additional Notes:
-Please note that, I was out of town and only had limited access to my system, dedicating about 2 to 3 hours daily for three days to complete the implementation.
+Please note that, I was out of town and only had limited access to my system, dedicating about 2 to 3 hours daily for three days to complete this implementation.
